@@ -1,4 +1,5 @@
-## Hi there 👋
+## We have the tools, we have the future
+## Hi, my name is Jose
 
 <!--
 **JNGDSOFT/JNGDSOFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
