@@ -1,10 +1,10 @@
 ## When we have the tools, we have the future
-#Hi, my name is Jose, and i am able to provide creative software solutions for you
+#Hi, my name is Jose, and i am able to provide creative and robust software solutions for you
 
 #I´m specialized rigth now on 
-###Spring and Java
-
-#With knowledge of React also
+###Java
+###Spring
+###React
 
 <!--
 **JNGDSOFT/JNGDSOFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
