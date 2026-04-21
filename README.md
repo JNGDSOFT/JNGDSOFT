@@ -1,4 +1,4 @@
-## When we have the will, we have the future
+## When we have the tools, we have the future
 
 Hi, I'm **José** 
 
