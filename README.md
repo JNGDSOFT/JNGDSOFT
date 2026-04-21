@@ -17,7 +17,5 @@ Here are the primary tools I use to build and test software solutions.
 
 ### Let's Build the Future Together
 
-I am looking for an internship where I can apply my tools and passion to a team that is building meaningful software. If you're looking for a developer who is serious about their craft, let's connect.
-
 *   **LinkedIn:** [https://www.linkedin.com/in/jose-nicolas-garc%C3%ADa-dur%C3%A1n-133202353/]
 *   **Email:** [nicogardu24@hotmail.com]
