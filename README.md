@@ -1,4 +1,5 @@
 ## When we have the tools, we have the future
+And if we don't, we make them!
 
 Hi, I'm **José** 
 
